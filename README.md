@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Diego 👋
 
-<!--
-**DERMdev/DERMdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Automotive Engineer making the leap into software development.
+I bring an analytical mindset, strong documentation habits, and a genuine passion for building things — now applied to code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+
+![Python](https://img.shields.io/badge/Python-basic-3776AB?style=flat&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-basic-E34F26?style=flat&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-introductory-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-associate-FF0000?style=flat)
+
+**Currently learning:** python course (Udemy Bootcamp in progress)
+
+---
+
+## 🚀 Projects
+
+> I'm actively building my portfolio. Projects are added regularly as I learn.
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| 🔧 *Coming soon* | Main project in development | Python / HTML |
+| 📁 Exercises & practice | Small scripts and exercises from my learning journey | Python, HTML |
+
+---
+
+## 🎯 About Me
+
+- 📍 Based in Aguascalientes, Mexico
+- 🎓 B.Eng. in Automotive Engineering — Universidad Autónoma de Aguascalientes
+- 🏆 1st Place — Formula E-Car Projecting Contest
+- 💼 Background in quality assurance, mechanical inspection & process documentation
+- 🌱 Currently focused on Python and Web Development
+- 🌐 Languages: Spanish (native) · English (proficient) · Italian (basic)
+
+---
+
+## 📫 Contact
+
+[![Email](https://img.shields.io/badge/Email-diego.remol415@gmail.com-blue?style=flat&logo=gmail)](mailto:diego.remol415@gmail.com)
+
+---
+
+*"Every expert was once a beginner."*
