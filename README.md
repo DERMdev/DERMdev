@@ -34,7 +34,7 @@ I bring an analytical mindset, strong documentation habits, and a genuine passio
 - 🏆 1st Place — Formula E-Car Projecting Contest
 - 💼 Background in quality assurance, mechanical inspection & process documentation
 - 🌱 Currently focused on Python and Web Development
-- 🌐 Languages: Spanish (native) · English (proficient) · Italian (basic)
+- 🌐 Languages: Spanish (native) · English (B1) · Italian (basic)
 
 ---
 
