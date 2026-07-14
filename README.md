@@ -41,7 +41,7 @@ I'm currently looking for my first opportunity as a Python Backend Developer.
 ## 📫 Contact
 
 [![Email](https://img.shields.io/badge/Email-diego.remol415@gmail.com-blue?style=flat&logo=gmail)](mailto:diego.remol415@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/diego-emilio-regalado-molina-5732661b6/)
 ---
 
 *"Every expert was once a beginner."*
