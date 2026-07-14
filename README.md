@@ -2,6 +2,7 @@
 
 Automotive Engineer making the leap into software development.
 I bring an analytical mindset, strong documentation habits, and a genuine passion for building things — now applied to code.
+
 I'm currently looking for my first opportunity as a Python Backend Developer.
 ---
 
