@@ -22,8 +22,8 @@ I bring an analytical mindset, strong documentation habits, and a genuine passio
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| 🔧 *Coming soon* | Main project in development | Python / HTML |
-| 📁 Exercises & practice | Small scripts and exercises from my learning journey | Python, HTML |
+| 🔧 *Coming soon* | Main project in development | Python |
+| 📁 Exercises & practice | Small scripts and exercises from my learning journey | Python |
 
 ---
 
@@ -33,7 +33,7 @@ I bring an analytical mindset, strong documentation habits, and a genuine passio
 - 🎓 B.Eng. in Automotive Engineering — Universidad Autónoma de Aguascalientes
 - 🏆 1st Place — Formula E-Car Projecting Contest
 - 💼 Background in quality assurance, mechanical inspection & process documentation
-- 🌱 Currently focused on Python and Web Development
+- 🌱 Currently focused on Python
 - 🌐 Languages: Spanish (native) · English (B1) · Italian (basic)
 
 ---
