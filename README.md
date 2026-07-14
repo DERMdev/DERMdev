@@ -2,7 +2,7 @@
 
 Automotive Engineer making the leap into software development.
 I bring an analytical mindset, strong documentation habits, and a genuine passion for building things — now applied to code.
-
+I'm currently looking for my first opportunity as a Python Backend Developer.
 ---
 
 ## 🛠️ Technologies & Tools
@@ -12,7 +12,7 @@ I bring an analytical mindset, strong documentation habits, and a genuine passio
 ![JavaScript](https://img.shields.io/badge/JavaScript-introductory-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-associate-FF0000?style=flat)
 
-**Currently learning:** python course (Udemy Bootcamp in progress)
+**Currently learning:** Backend Development with Python
 
 ---
 
@@ -22,8 +22,7 @@ I bring an analytical mindset, strong documentation habits, and a genuine passio
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| 🔧 *Coming soon* | Main project in development | Python |
-| 📁 Exercises & practice | Small scripts and exercises from my learning journey | Python |
+| 🏦 Bank Management System | Console banking application with login, registration, JSON persistence and OOP | Python, JSON, OOP |
 
 ---
 
