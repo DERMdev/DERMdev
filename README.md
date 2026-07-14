@@ -8,7 +8,7 @@ I bring an analytical mindset, strong documentation habits, and a genuine passio
 ## 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-basic-3776AB?style=flat&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-basic-E34F26?style=flat&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-introductory-E34F26?style=flat&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-introductory-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-associate-FF0000?style=flat)
 
